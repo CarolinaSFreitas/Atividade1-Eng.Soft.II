@@ -1,5 +1,6 @@
 body {
     padding-bottom: 100px; 
+    background-color:#ADC5CF;
 }
 .header {
     background-color: #17a2b8;
@@ -9,6 +10,11 @@ body {
 }
 .logo {
     max-width: 100px;
+}
+
+div{
+  
+    color: #026270
 }
 .footer {
     position: fixed;
