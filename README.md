@@ -8,8 +8,6 @@
 + Maria Antônia Soares
 + Rodrigo Silva
 
-----
-
 ## 🌐 GitHub Pages: 
 
 https://carolinasfreitas.github.io/Atividade1-Eng.Soft.II/
