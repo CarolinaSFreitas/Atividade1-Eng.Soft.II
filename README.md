@@ -5,6 +5,7 @@
 + Carolina Freitas
 + Gabriel Mendes
 + Júlia Hallal
++ Maria Antônia Soares
 + Rodrigo Silva
 
 ----
