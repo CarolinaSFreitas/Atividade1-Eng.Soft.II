@@ -10,6 +10,10 @@
 
 ----
 
+🌐 GitHub Pages: https://carolinasfreitas.github.io/Atividade1-Eng.Soft.II/
+
+----
+
 <div align="center">
   <img src="/images/logo-senac.png" width="300px">
 </div>
